@@ -1,0 +1,2 @@
+#!/usr/bin/env lunch
+add_command("toonloop --enable-mouse-controls --fullscreen --camera /dev/video0")

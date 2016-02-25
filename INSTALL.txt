@@ -1,0 +1,11 @@
+Installation instructions
+=========================
+
+Ubuntu 14.04
+------------
+* build and install toonloop from the develop branch
+* build toonplayer from the develop branch
+
+Install as well::
+
+  sudo apt-get install inotify-tools lunch
