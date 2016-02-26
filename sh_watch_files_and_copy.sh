@@ -3,7 +3,7 @@
 # XXX Changez ici l'adresse IP de l'ordi art3, qui fait jouer les clips
 #
 
-IP_PLAYER=10.9.1.166
+IP_PLAYER=10.9.1.172
 
 
 
