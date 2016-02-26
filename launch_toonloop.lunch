@@ -1,2 +1,3 @@
 #!/usr/bin/env lunch
-add_command("toonloop --enable-mouse-controls --fullscreen --camera /dev/video0")
+add_command("toonloop --enable-mouse-controls --fullscreen -d /dev/video0 --playhead-fps 6")
+add_command("~/src/mnbaq_2015/sh_watch_files_and_copy.sh")

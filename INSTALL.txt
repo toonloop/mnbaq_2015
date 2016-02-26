@@ -9,3 +9,8 @@ Ubuntu 14.04
 Install as well::
 
   sudo apt-get install inotify-tools lunch
+
+ln -s ~/src/mnbaq_2015/launch_toonloop.lunch ./.lunchrc
+ln -s ~/src/mnbaq_2015/launch_toonloop.lunch ./.lunchrc
+ln -s ~/src/mnbaq_2015/launch_toonplayer.lunch ./.lunchrc
+
