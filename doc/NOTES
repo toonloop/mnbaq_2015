@@ -1,0 +1,2 @@
+sudo apt-get install gir1.2-clutter-gst-1.0 gir1.2-gst-plugins-base-0.10 gir1.2-gstreamer-0.10
+sudo apt-get remove libgstreamer0.10-dev
