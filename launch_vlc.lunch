@@ -1,0 +1,3 @@
+#!/usr/bin/env lunch
+add_command("vlc --loop --fullscreen --random --playlist-autostart --playlist-tree ~/Videos/", identifier="vlc")
+add_command("~/src/mnbaq_2015/sh_watch_files_and_play_with_vlc.sh", identifier="watcher")

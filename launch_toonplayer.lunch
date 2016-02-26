@@ -1,2 +1,2 @@
 #!/usr/bin/env lunch
-add_command("~/src/toonplayer/scripts/toonplayer --fullscreen --time-each-played 3 --clips-directory ~/Videos")
+add_command("~/src/toonplayer/scripts/toonplayer --fullscreen --times-each-played 3 --clips-directory ~/Videos")
